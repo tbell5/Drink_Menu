@@ -1,0 +1,41 @@
+ ______________________________________________________
+|                                                      |
+|                                                      |
+|  _..--""````""--.._                                  |
+| (_                _;..--""````""--.._                |
+| \ ```"""----"""```(_                _)               |
+|  '-.            .-\ ```"""----"""``` /               |
+|     `\        /`   '-.            .-'                |
+|       '-.__.-'        `\        /`                   |
+|          ||             '-.__.-'                     |
+|          ||                ||                        |
+|          ||                ||                        |
+|          ||                ||                        |
+|     _..--||--.._           ||                        |
+|    (_          _)     _..--||--.._                   |
+|      ```""""```      (_          _)                  |
+|                        ```""""```                    |
+| The                                                  |
+|__  __                                                |
+| |  __ \     (_)     | |    |  \/  |                  |
+| | |  | |_ __ _ _ __ | | __ | \  / | ___ _ __  _   _  |
+| | |  | | '__| | '_ \| |/ / | |\/| |/ _ \ '_ \| | | | |
+| | |__| | |  | | | | |   <  | |  | |  __/ | | | |_| | |
+| |_____/|_|  |_|_| |_|_|\_\ |_|  |_|\___|_| |_|\__,_| |
+|                                 By Tucker Bell       |
+|                                    version 1.0, 2019 |
+|======================================================|
+|Search for drinks by ingredient:                      |
+|   * <i ingredient_name> : narrow to recipes that     |
+|            include <ingredient_name> ; enter as      |
+|            many as desired                           |
+|   * <i> : show ingredient selections                 |
+|   * <c> : clear ingredient selections                |
+|   * <s> : list all searchable ingredients            |
+|                                                      |
+|View matching drinks and their recipes:               |
+|   * <m> : show menu of matching recipes              |
+|   * <o #> : open recipe <#> (from above menu)        |
+|   * <o name> : open recipe <name>                    |
+|   * <q> : quit                                       |
+|======================================================|

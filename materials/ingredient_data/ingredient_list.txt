@@ -1,0 +1,384 @@
+absinthe
+beer
+	ale
+		brown ale
+	lager
+		Mexican lager
+	pale ale
+	stout
+		Guinness
+bitters
+	cocktail bitters
+		angostura bitters
+		orange bitters
+		Peychaud's bitters
+brandy
+	cognac
+	eau de vie
+		kirsch
+	fruit brandy
+		apple brandy
+			Applejack
+			Calvados
+		apricot brandy
+		blackberry brandy
+		cherry brandy
+		peach brandy
+		pear brandy
+	pisco
+cider
+gin
+liqueurs
+	almond liqueur
+		amaretto
+		creme de noyaux
+	Amer Picon
+	amaro
+		Fernet-Branca
+	anise-flavored
+		anisette
+		Herbsaint
+		ouzo
+		pastis
+			Pernod
+		sambuca
+			black sambuca
+	Benedictine
+	Campari
+	Chartreuse
+		green Chartreuse
+		yellow Chartreuse
+	chocolate liqueur
+		creme de cacao
+			brown creme de cacao
+			white creme de cacao
+		Godiva Liqueur
+	coffee liqueurs
+		Kahlua
+		Tia Maria
+	cream liqueur
+		Bailey's
+	creme de violette
+	creme liqueurs
+		creme de cassis
+		creme de menthe
+			green creme de menthe
+			white creme de menthe
+	Cynar
+	Damiana liqueur
+	Drambuie
+	Frangelico
+	fruit liqueur
+		apricot liqueur
+		banana liqueur
+			99 bananas
+			creme de banane
+		blackberry liqueur
+			creme de mure
+		cherry liqueur
+			Heering Cherry Liqueur
+		lemon liqueur
+			limoncello
+		lime liqueur
+			KeKe Beach Key Lime Cream Liqueur
+		maraschino liqueur
+		melon liqueur
+			Midori
+		orange liqueur
+			Citronge
+			curacao
+				blue curacao
+				orange curacao
+			Mandarine Napolean
+			triple sec
+				Cointreau
+				Grand Marnier
+				Harlequin Orange Liqueur
+		passion fruit liqueur
+		peach liqueur
+			creme de peche
+		plum wine
+		raspberry liqueur		
+			Chambord
+			creme de framboise
+		strawberry liqueur
+			creme de fraise
+	Galliano
+	Jagermeister
+	kummel
+	Licor 43
+	Parfait Amour
+	Pimm's
+		Pimm's No. 1
+	sloe gin
+	Southern Comfort
+	Tuaca
+	walnut liqueur
+mixers/sauces/syrups
+	carbonated
+		club soda
+		cola
+		ginger ale
+		ginger beer
+		lemon-lime soda
+		sparkling beverage
+			sparkling tangerine beverage
+		tonic water
+	cocktail mix
+		sweet and sour mix
+	coconut cream
+	coconut milk
+	coffee
+		espresso
+	dairy
+		eggnog
+		half-and-half
+		heavy cream
+		milk
+	juice
+		clam juice
+		fruit juice
+			apple juice
+			apple cider
+			cranberry juice
+			grape juice
+			grapefruit juice
+			lemon juice
+			lime juice
+				Rose's lime juice
+			mandarin juice
+			mango juice
+			maraschino cherry juice
+			orange juice
+			papaya juice
+			passion fruit juice
+			pineapple juice
+			prickly pear juice
+			tangerine juice
+			tomato juice
+				Clamato
+		nectar
+			apricot nectar
+			cranberry nectar
+			guava nectar
+			passion fruit nectar
+		olive juice
+		vegetable juice
+	orange flower water
+	puree
+		apricot puree
+		banana puree
+		mango puree
+		peach puree
+		raspberry puree
+	rose water
+	sauces
+		horseradish
+		hot sauce
+			Tobasco sauce
+		salsa
+		soy sauce
+		wassabi
+		Worcestershire sauce
+	syrup & honey
+		chocolate syrup
+		blackcurrant syrup
+		ginger syrup
+		grenadine
+		honey
+		maple syrup
+		passion fruit syrup
+		peppermint syrup
+		pomegranate syrup
+		raspberry syrup
+		simple syrup
+	tea
+		chai tea concentrate
+non-liquids
+	baking/spices
+		allspice
+			allspice (ground)
+		black pepper
+		cardamom
+			cardamom (ground)
+		cinnamon
+			cinnamon stick
+		chocolate
+			unsweetened chocolate
+		cloves
+			cloves (ground)
+			cloves (whole)
+		cocoa powder
+			sweetened cocoa powder
+			unsweetened cocoa powder
+		coffee (dry)
+			coffee beans
+		ginger
+			candied ginger
+			ground ginger
+		nutmeg
+			instant coffee
+		salt
+			kosher salt
+		sugar
+			brown sugar
+			powdered sugar
+			sugar cube
+			superfine sugar
+		vanilla bean
+	dairy (non-liquid)
+		butter
+		whipped cream
+	egg
+		egg white
+		egg yolk
+	frozen dessert
+		sorbet
+			coconut sorbet
+			lemon sorbet
+			lime sorbet
+		ice cream
+			chocolate ice cream
+			vanilla ice cream
+	fruit
+		apple
+		avocado
+		banana
+		blackberries
+		coconut
+		cranberries
+		lemon
+		lime
+		mango
+		maraschino cherry
+		nectarine
+		olive
+			black olive
+			green olive
+		orange
+		papaya
+		peach
+		pineapple
+		raspberries
+		strawberry
+		tangerine
+		watermelon
+	garnishes
+		lemongrass
+		mint leaf
+		mint sprig
+		flower
+			orchid
+			rose petals
+	vegetables
+		celery
+		cucumber
+		garlic
+		green onion
+		jalapeno
+		onion
+			cocktail onion
+		pickle
+		tomato
+			cherry tomato
+rum & flavored rum
+	rum
+		aged rum
+			Martinique
+			Rhum Barbancourt
+		dark rum
+			Demerara
+			Myers's Dark rum
+			Jamaican rum
+		light rum
+			white rum
+			gold rum
+			cachaca
+			Puerto Rican rum
+		overproof rum
+	flavored rum
+		coconut-rum
+			Malibu
+		lemon rum
+		pineapple-infused rum
+		spiced rum
+			Captain Morgan
+		vanilla-infused rum
+sake
+	nigori
+schnapps
+	apple schnapps
+	butterscotch schnapps
+	cinnamon schnapps
+		Goldschlager
+	green apple schnapps
+	peach schnapps
+	peppermint schnapps
+		Rumple Minze
+	root beer schnapps
+spirits
+	aguardiente
+	Metaxa
+tequila/mezcal
+	mezcal
+	tequila & infused tequila
+		tequila
+			gold tequila
+			reposado tequila
+			silver tequila
+		infused tequila
+			vanilla-infused tequila
+			pepper-infused tequila
+vodka
+	flavored vodka
+		cranberry vodka
+		ginger vodka
+		lemon vodka
+		mandarin vodka
+		orange vodka
+		vanilla vodka
+		Zubrowka Bison Grass Vodka
+whisky
+	bourbon
+	Canadian whisky
+	blended American whisky
+		Seagram's Seven Crown
+	Irish whisky
+	Japanese whisky
+	rye whisky
+	scotch
+		single-malt scotch
+		blended scotch
+wine
+	fortified wine
+		aromatized wine
+			Dubonnet
+				Dubonnet Rouge
+			Lillet
+				Lillet Blanc
+			vermouth
+				dry vermouth
+				Punt e Mas
+				sweet vermouth
+		Madeira
+		Marsala
+			dry Marsala
+			sweet Marsala
+		port
+			ruby port
+			tawny port
+		Sherry
+			cream Sherry
+			dry Sherry
+	red wine
+		Beaujolais
+		dry red wine
+	rose
+		dry rose
+	sparkling wine
+		champagne
+		Prosecco
+	white wine
+		Chardonnay
+		dry white wine
+			Sauvignon blanc
